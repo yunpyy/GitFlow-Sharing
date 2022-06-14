@@ -10,7 +10,7 @@
     </parent>
     <groupId>com.elsevier</groupId>
     <artifactId>gitflow-sharing</artifactId>
-    <version>0.0.3</version>
+    <version>1.0.0</version>
     <name>GitFlow-Sharing</name>
     <description>GitFlow-Sharing</description>
     <properties>
