@@ -10,6 +10,7 @@ public class SystemApplication {
         System.out.println("Greeting from A");
         System.out.println("Greeting from hotfix/1.1.1");
         System.out.println("Greeting from B");
+        System.out.println("Pull Reqeust testing");
         SpringApplication.run(SystemApplication.class, args);
     }
 
